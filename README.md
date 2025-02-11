@@ -1,6 +1,3 @@
-Sure! Here's the content with proper headings, formatting, and indentation for a clearer presentation, as it would appear in a README or documentation file.
-
----
 
 # **Design Patterns**
 
